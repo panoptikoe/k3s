@@ -25,4 +25,3 @@ jobs:
       uses: actions-hub/kubectl@master
       with:
         args: apply -f kubernetes/service.yml
-     
